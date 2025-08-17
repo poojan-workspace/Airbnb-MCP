@@ -1,20 +1,8 @@
-# MCP Client – Airbnb & Weather Tools 🌍🏡
+# Airbnb Chatbot - (MCP + Open AI) 🌍🏡
 
-This project demonstrates how to use the **Model Context Protocol (MCP)** to interact with external MCP servers and expose useful tools. It includes an Airbnb client integration and a weather utility.
+This project demonstrates how to use the **Model Context Protocol (MCP)** to interact with external MCP servers and expose useful tools. It includes an Airbnb client integration and a openai utility.
 
-## 📂 Project Structure
-
-```
-.
-├── .gitignore
-├── .python-version
-├── README.md
-├── client.py        # MCP client for Airbnb server
-├── main.py          # Entry point / orchestration
-├── pyproject.toml   # Project metadata & dependencies
-├── uv.lock          # Lockfile for reproducible environments
-└── weather.py       # MCP tool for fetching weather info
-```
+<img width="717" height="413" alt="Capture11" src="https://github.com/user-attachments/assets/51b08ef2-d9eb-44a4-9756-c7562e27f217" />
 
 ## ⚡ Features
 
@@ -69,3 +57,4 @@ This project demonstrates how to use the **Model Context Protocol (MCP)** to int
 
 * [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)
 * [OpenBnB MCP Server](https://www.npmjs.com/package/@openbnb/mcp-server-airbnb)
+
